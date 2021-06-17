@@ -1,6 +1,7 @@
 # Wine-quality_RSudio
 #install the following module packages if using R studio for the first time
-install.packages("dplyr")
+
+install.packages("dplyr") \n
 install.packages("ggplot2")
 install.packages("corrplot")
 install.packages("psych")
